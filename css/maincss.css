@@ -3,6 +3,7 @@ body{
     margin: 0;
     color: #fff;
     font-family: 'Montserrat', sans-serif;
+    width:100%;
 }
 
 .header::after {
